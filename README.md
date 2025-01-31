@@ -21,7 +21,7 @@ This project explores dimensionality reduction techniques on the **MNIST dataset
 ## Installation
 
 ```bash
-pip install numpy scikit-learn matplotlib seaborn
+pip install numpy scikit-learn matplotlib
 ```
 
 ## Dataset
