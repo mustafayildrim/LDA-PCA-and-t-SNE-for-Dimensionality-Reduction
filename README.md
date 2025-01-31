@@ -17,7 +17,6 @@ This project explores dimensionality reduction techniques on the **MNIST dataset
 - Scikit-learn
 - NumPy
 - Matplotlib
-- Seaborn
 
 ## Installation
 
@@ -44,9 +43,4 @@ The project uses the **MNIST dataset** and applies dimensionality reduction tech
 
 - **t-SNE 2D and 3D Projections:** Visualizes non-linear clustering in both 2D and 3D representations.
 
-## Acknowledgments
-
-- Scikit-learn for machine learning implementations.
-- Matplotlib and Seaborn for visualization.
-- MNIST dataset for image classification research.
 
