@@ -38,13 +38,11 @@ The project uses the **MNIST dataset** and applies dimensionality reduction tech
 
 ## Visualizations
 
-- **PCA Projections:** 2D and 3D scatter plots.
-- **LDA Projections:** Analysis of class separability.
-- **t-SNE Projections:** Non-linear visualization for better clustering.
+- **PCA 2D and 3D Projections:** Analyzes how PCA reduces dimensions while maintaining variance in both 2D and 3D spaces.
 
-This project is for educational purposes and follows open-source principles.
+- **LDA 2D and 3D Projections:** Examines class separability using LDA projections in 2D and 3D.
 
-**Mustafa Yildirim**
+- **t-SNE 2D and 3D Projections:** Visualizes non-linear clustering in both 2D and 3D representations.
 
 ## Acknowledgments
 
